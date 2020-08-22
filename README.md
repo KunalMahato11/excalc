@@ -1,5 +1,5 @@
 ## excalc ➕ ➖
-A budget app for monthly expenses calculation
+A budget app for monthly expenses calculations
 
 👉 [Take a look](https://kunalmahato11.github.io/excalc/)
 
